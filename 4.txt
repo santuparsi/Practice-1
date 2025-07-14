@@ -1,2 +1,6 @@
 This is new text file
+<<<<<<< Updated upstream
 This file is modified by sandotnet82
+=======
+This file is modified by sandotnet82
+>>>>>>> Stashed changes
